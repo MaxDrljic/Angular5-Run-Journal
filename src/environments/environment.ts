@@ -5,5 +5,5 @@
 
 export const environment = {
   production: false,
-  MAPBOX_API_KEY: 'pk.eyJ1IjoibWF4ZHJsamljIiwiYSI6ImNqZGtqazV6NTAxMGcyd3MzaWt5cG5rZGsifQ.BXAaFnlvdIQyjGW1q-wAvQ'
+  MAPBOX_API_KEY: 'Your Mapbox API key'
 };
