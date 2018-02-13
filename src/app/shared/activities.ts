@@ -5,7 +5,7 @@ export const SAVED_ACTIVITIES: IActivity[] = [
     'id': 1,
     'name': 'Main Bike Trails',
     'date': new Date('12/02/2018'),
-    'distance': 6.2,
+    'distance': 4.2,
     'comments': 'Nice day, good temperature',
     'gpxData': '../../assets/gpx/1.gpx',
   },
